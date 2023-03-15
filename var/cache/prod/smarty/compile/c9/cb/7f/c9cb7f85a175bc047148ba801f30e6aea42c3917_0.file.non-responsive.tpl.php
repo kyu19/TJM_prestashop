@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.2.1, created on 2023-02-22 13:41:24
+/* Smarty version 4.2.1, created on 2023-03-15 13:44:43
   from '/Applications/MAMP/htdocs/TJM_prestashop/admin386e2oj8km9hf2gjktr/themes/new-theme/template/components/layout/non-responsive.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.2.1',
-  'unifunc' => 'content_63f60d74ad6995_68885183',
+  'unifunc' => 'content_6411bdbb8fbc23_40887547',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'c9cb7f85a175bc047148ba801f30e6aea42c3917' => 
     array (
       0 => '/Applications/MAMP/htdocs/TJM_prestashop/admin386e2oj8km9hf2gjktr/themes/new-theme/template/components/layout/non-responsive.tpl',
-      1 => 1677068994,
+      1 => 1677070683,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_63f60d74ad6995_68885183 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6411bdbb8fbc23_40887547 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div id="non-responsive" class="js-non-responsive">
   <h1><?php echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['l'][0], array( array('s'=>'Oh no!'),$_smarty_tpl ) );?>
 </h1>

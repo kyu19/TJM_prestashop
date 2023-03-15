@@ -22,6 +22,9 @@
  * @copyright Since 2007 PrestaShop SA and Contributors
  * @license   https://opensource.org/licenses/AFL-3.0 Academic Free License 3.0 (AFL-3.0)
  *}
+
+<!-- start feedwind code --> <script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Loading" data-fw-param="160307/"></script> <!-- end feedwind code -->
+ 
 <section class="featured-products clearfix">
   <h2 class="h2 products-section-title text-uppercase">
     {l s='Popular Products' d='Shop.Theme.Catalog'}
@@ -31,3 +34,4 @@
     {l s='All products' d='Shop.Theme.Catalog'}<i class="material-icons">&#xE315;</i>
   </a>
 </section>
+

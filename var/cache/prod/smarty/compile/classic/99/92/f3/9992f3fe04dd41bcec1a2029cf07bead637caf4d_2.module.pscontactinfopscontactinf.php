@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.2.1, created on 2023-02-22 13:41:25
+/* Smarty version 4.2.1, created on 2023-03-15 13:27:06
   from 'module:pscontactinfopscontactinf' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.2.1',
-  'unifunc' => 'content_63f60d75eb6295_12949938',
+  'unifunc' => 'content_6411b99a334963_10759235',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '9992f3fe04dd41bcec1a2029cf07bead637caf4d' => 
     array (
       0 => 'module:pscontactinfopscontactinf',
-      1 => 1677069012,
+      1 => 1677070684,
       2 => 'module',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_63f60d75eb6295_12949938 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6411b99a334963_10759235 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'/Applications/MAMP/htdocs/TJM_prestashop/vendor/smarty/smarty/libs/plugins/modifier.replace.php','function'=>'smarty_modifier_replace',),1=>array('file'=>'/Applications/MAMP/htdocs/TJM_prestashop/vendor/smarty/smarty/libs/plugins/function.mailto.php','function'=>'smarty_function_mailto',),));
 ?>
 
